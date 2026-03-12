@@ -37,10 +37,11 @@
             targetButton.Font = new Font("휴먼옛체", 14.25F, FontStyle.Regular, GraphicsUnit.Point, 129);
             targetButton.Location = new Point(299, 185);
             targetButton.Name = "targetButton";
-            targetButton.Size = new Size(160, 70);
+            targetButton.Size = new Size(250, 120);
             targetButton.TabIndex = 0;
             targetButton.Text = "나를 잡아봐";
             targetButton.UseVisualStyleBackColor = false;
+            targetButton.Click += targetButton_Click;
             targetButton.MouseEnter += targetButton_MouseEnter;
             // 
             // Form1
