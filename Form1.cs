@@ -72,7 +72,6 @@ namespace CatchButton
 
             this.Text = $"버튼 위치: ({nextX}, {nextY}), 점수: {score}점, 실패 횟수: {outCount}회";
         }
-
         private void targetButton_Click(object sender, EventArgs e)
         {
             score += 100;
