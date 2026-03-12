@@ -7,16 +7,21 @@
 
 ## 실행 화면
 - 1단계 코드의 실행 스크린샷
-  버튼위에 마우스를 올리면 위치가 변경되면서, 제목이 해당 좌표로 바뀜
+- 버튼위에 마우스를 올리면 위치가 변경되면서, 제목이 해당 좌표로 바뀜
 
 https://github.com/user-attachments/assets/b10b0a31-8a0d-4aa8-86f3-ec5d21b38762
 
 - 2단계 코드의 실행 스크린샷
-  버튼 잡기와 실패시 효과음 재생, 클릭 시 메세지박스
+- 버튼 잡기와 실패시 효과음 재생, 클릭 시 메세지박스
 
 https://github.com/user-attachments/assets/7c4574fe-a607-43d3-a7cb-510181a15b2a
 
 - 3단계 코드의 실행 스크린샷
+- 점수 추가와 성공시 난이도 조절
+
+https://github.com/user-attachments/assets/ea9e49e7-ae4d-4443-b4ca-2ec631e3e830
+
+
 - 4단계 코드의 실행 스크린샷
 
 ## 구현 시 어려웠던 점
